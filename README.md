@@ -1100,6 +1100,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [rpn](https://github.com/louisrubet/rpn) - rpn - Reverse Polish Notation CLI calculator. A math functional language using reverse (postfix) polish notation
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
+- [RydenScript](https://github.com/maiomcorp-oss/RydenScript) - A tag-based general-purpose language that compiles to PowerShell and web. Supports desktop GUI (Windows Forms), 2D/3D game engines, P2P networking, and system automation.
 <a name="S"></a>
 # S (56):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
